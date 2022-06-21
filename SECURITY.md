@@ -1,3 +1,3 @@
 # Security Policy
 
-To report a security issue, please email coder.cwx@gmail.com with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue. 
+To report a security issue, please kindly email coder.cwx@gmail.com with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue. 

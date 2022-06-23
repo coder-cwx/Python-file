@@ -1,3 +1,3 @@
 # python
 
-Some python file for testing purpose
+Some python files for testing purposes
